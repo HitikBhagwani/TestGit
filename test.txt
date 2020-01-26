@@ -1,0 +1,1 @@
+this is a new technique called version control with git and im gonna kill it with this technique
